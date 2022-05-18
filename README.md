@@ -1,9 +1,9 @@
-# SSHPLUS
+# SSHPLUS Para Sistemas YUM
 
-apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/MentalistSays/SSHPLUS/master/Plus && chmod 777 Plus && ./Plus
+yum update -y && yum upgrade -y && wget https://raw.githubusercontent.com/DavidX2BR/SSHPLUS/master/Plus && chmod 777 Plus && ./Plus
 
 
 #Acessa Root
 
-wget https://raw.githubusercontent.com/MentalistSays/SSHPLUS/master/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
+wget https://raw.githubusercontent.com/DavidX2BR/SSHPLUS/master/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
 # SSHPLUS
